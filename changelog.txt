@@ -1,0 +1,11 @@
+       src/packaging/resource/cassandra-reaper-cassandra-sidecar.yaml
+       src/packaging/resource/cassandra-reaper-cassandra-ssl.yaml
+       src/packaging/resource/cassandra-reaper-cassandra.yaml
+       src/packaging/resource/cassandra-reaper-h2.yaml
+       src/packaging/resource/cassandra-reaper-memory.yaml
+       src/packaging/resource/cassandra-reaper-postgres.yaml
+       src/packaging/resource/cassandra-reaper.yaml
+       src/server/src/main/java/io/cassandrareaper/resources/ClusterResource.java
+       src/server/src/test/java/io/cassandrareaper/resources/ClusterResourceTest.java
+       src/ui/app/observable.js
+
